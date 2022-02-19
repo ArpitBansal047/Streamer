@@ -1,4 +1,4 @@
-# Streamy 
+# Streamer 
 Video Streaming Platform
 
 ## Built with :
